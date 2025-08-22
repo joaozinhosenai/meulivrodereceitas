@@ -1,4 +1,4 @@
-# meulivrodereceitas
+# meu livro de receitas
 Meu Livro de Receitas
 Bem-vindo ao Meu Livro de Receitas! Este projeto foi desenvolvido como uma forma de praticar e demonstrar habilidades de desenvolvimento front-end, criando uma página web estática, responsiva e visualmente agradável para apresentar receitas brasileiras.
 
